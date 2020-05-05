@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> Munson Ramos Legacy </title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div id="header">
+<div class="container">
+  <a id="header-title" href="index.html"> <h1>My blog </h1></a>
+  <ul id="header-nav">
+    <li> <a href="about.html">About </a></li>
+      <li> <a href="mailto:web.developer.munson@gmail.com">Contact Us</a></li>
+    </ul>
+  </div>
+    </div>
+
+    <div id="content">
+      <div class="post-container">
+        <div class="post">
+          <div class="post-author">
+            <img src="me.png">
+            <span>Me</span>
+          </div>
+          <p class="post-date">Today</p>
+          <h3 class="post-title">Becoming a Web developer</h3>
+          <p>If somebody would have told me a week a go that
+            I would be able to make <strong>websites</strong>, I would not have believe
+            them.</p>
+            <p> Just a few days later, I came across Mimo and
+              <a href="google.com">google</a>
+               started to work
+              on a real blog.</p>
+              </div>
+        </div>
+        <div class="post-container">
+        <div class="post">
+          <div class="post-author">
+            <img src="me1.png">
+            <span>Admin</span>
+          </div>
+          <p class="post-date">Today</p>
+          <h3 class="post-title">Becoming a Web developer</h3>
+          <p><strongh>If somebody would have told me a week a go that
+            I would be able to make websites, I would not have believe
+            them.</strong></p>
+            <a href="google.com">google</a>
+            <p> <em>Just a few days later,</em> I came across Mimo and started to work
+              on a real blog.</p>
+        </div>
+        </div>
+       </div>
+
+    <div id="footer">
+      <div class="container">
+        <div class="column">
+          <h4> My Links</h4>
+          <p>
+            <a href="https://www.facebook.com/alexander.munson.14">Facebook</a>
+            <br>
+            <a href="https://www.instagram.com/elenamariarr/">Instagram </a>
+          </p>
+        </div>
+        <div class="column">
+          <h4> My Story</h4>
+          <p>Hi there! I'm an aspiring web developer</p>
+        </div>
+        </div>
+       </div>
+
+  </body>
+</html>
